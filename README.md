@@ -7,7 +7,5 @@
 - ✨ My area of interest lies in large language models as well as image and video generation.
 - ⚗️ I am interning as an **AIGC Algorithm Engineer at Tuzhan AI**, where I am responsible for the development of image generation algorithms. I am also interning at [PKU YuanGroup](https://github.com/PKU-YuanGroup).
 
-Email: qingzheng@hust.edu.cn
-
 ----
 <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/qqingzheng" align="bottom"/>
