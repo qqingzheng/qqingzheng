@@ -5,7 +5,6 @@
 
 - 🎓 I will begin my MPhil in ECE, Peking University in the fall of 2025.
 - ✨ My interests are in video and image generation and editing.
-- ⚗️ I am interning as an **AIGC Algorithm Engineer at Tuzhan AI**, where I am responsible for the development of image generation algorithms. I am also interning at [PKU YuanGroup](https://github.com/PKU-YuanGroup).
 
 ----
 <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/qqingzheng" align="bottom"/>
