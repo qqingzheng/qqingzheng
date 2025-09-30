@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-- 🎓 I will begin my MPhil in ECE, Peking University in the fall of 2025.
+- 🎓 ECE, Peking University.
 - ✨ My interests are in video and image generation and editing.
 
 ----
